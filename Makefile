@@ -3,7 +3,7 @@ CXX = g++
 PROB1 = hw6_2_1
 PROB2 = hw6_2_2
 TARGET = $(PROB1) $(PROB2)
-OBJ1 = avl.o rb.o bst.o hw6_2_1.o
+OBJ1 = avl_ntudsa.o rb.o bst.o hw6_2_1.o
 OBJ2 = avl_ntudsa.o hw6_2_2.o
 OBJS = $(OBJ1) $(OBJ2)
 
